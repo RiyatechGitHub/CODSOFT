@@ -1,4 +1,4 @@
-I have completed tasks given for my internship as a Web Development in CodSoft.In this,we performed the level 1 it contains 3 tasks.
+I have completed tasks given for my internship as a Web Development in CodSoft.In this,I performed the level 1 it contains 3 tasks.
  (Level 1)
  
  Task-1 :
